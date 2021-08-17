@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, Svelte and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jairopadilla19](https://github.com/jairopadilla19)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/jairopadilla19/overview](https://app.netlify.com/teams/jairopadilla19/overview)
 
 - 💬 Ask me about **React and JavaScript**
 
@@ -30,4 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairopadilla19&show_icons=true&locale=en&layout=compact" alt="jairopadilla19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&locale=en" alt="jairopadilla19" /></p>
+
 
