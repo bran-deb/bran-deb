@@ -1,4 +1,4 @@
-#### Hi, I'm Brandon 👋🏽👨🏽‍💻
+### Hi, I'm Brandon 👋🏽👨🏽‍💻
 
 <!--
 **jairopadilla19/jairopadilla19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
