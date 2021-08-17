@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![programmer](https://user-images.githubusercontent.com/26912874/129805105-7f40a630-9573-485a-98bf-88edc8839a93.png)
+-->
+
+
+
+![programmer](https://user-images.githubusercontent.com/26912874/129805214-28548a42-6435-4575-9ba3-d3011499169c.png)
+
 
 ### Find me around the web🌎:
 
