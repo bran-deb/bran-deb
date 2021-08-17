@@ -1,4 +1,4 @@
-### Hi, I'm Brandon 👋🏽👨🏽‍💻🧑🏽‍💻
+### Hi, I'm Brandon 👋🏽👨🏽‍💻
 
 <!--
 **jairopadilla19/jairopadilla19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![programmer](https://user-images.githubusercontent.com/26912874/129805105-7f40a630-9573-485a-98bf-88edc8839a93.png)
+
 ### Find me around the web🌎:
 
 Sharing updates on Linkedin
