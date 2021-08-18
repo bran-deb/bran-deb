@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/jairopadilla19/overview](https://app.netlify.com/teams/jairopadilla19/overview)
 
-- 💬 Ask me about **React and JavaScript**
-
 - 📫 How to reach me **jairo.padilla.deb19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
