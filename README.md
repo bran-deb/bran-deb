@@ -106,5 +106,6 @@
             </a>
     </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&locale=en" alt="jairopadilla19" /></p>
+<p>&nbsp;<img margin-left="auto"
+margin-right="auto" src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&locale=en" alt="jairopadilla19" /></p>
 
