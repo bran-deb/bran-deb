@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
    <div >
-        <p align="left">
+        <p align="left" width="100%">
             <a href="https://dev.to/brand padilla" target="blank">
                 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
                     alt="brand padilla" height="30" width="40" />
