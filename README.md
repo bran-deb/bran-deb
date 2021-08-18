@@ -16,8 +16,8 @@
 - 📫 How to reach me **jairo.padilla.deb19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-   <div style="display: flex; justify-content: center;">
-        <p align="center">
+   <div >
+        <p align="left">
             <a href="https://dev.to/brand padilla" target="blank">
                 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
                     alt="brand padilla" height="30" width="40" />
