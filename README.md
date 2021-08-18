@@ -27,12 +27,12 @@
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                     alt="@deb_jairo" height="30" width="40" />
             </a>
-            <a href="https://linkedin.com/in/brandon jairo padilla villca" target="blank">
+            <a href="https://linkedin.com/in/brandon-padilla-villca" target="blank">
                 <img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                     alt="brandon jairo padilla villca" height="30" width="40" />
             </a>
-            <a href="https://stackoverflow.com/users/brandon padilla" target="blank">
+            <a href="https://stackoverflow.com/users/brandon-padilla" target="blank">
                 <img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
                     alt="brandon padilla" height="30" width="40" />
