@@ -105,6 +105,9 @@
                     alt="bootstrap" width="40" height="40" />
             </a>
     </p>
+<div style="display: flex; justify-content: center;">
+        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&locale=en"
+                alt="jairopadilla19" /></p>
+    </div>
 
-<p>&nbsp;<img margin-left="50%" src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&locale=en" alt="jairopadilla19" /></p>
 
