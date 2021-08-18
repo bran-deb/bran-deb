@@ -32,7 +32,7 @@
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                     alt="brandon jairo padilla villca" height="30" width="40" />
             </a>
-            <a href="https://https://stackoverflow.com/users/16692066/brandon-padilla" target="blank">
+            <a href="https://stackoverflow.com/users/16692066/brandon-padilla" target="blank">
                 <img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
                     alt="brandon padilla" height="30" width="40" />
