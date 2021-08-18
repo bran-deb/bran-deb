@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 
-<a  target="blank"><img align="center" src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif" width="100%" /></a>
+<a  target="blank"><img align="center" src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif" height="70" width="100%" /></a>
 </p>
 
 
@@ -105,8 +105,6 @@
                     alt="bootstrap" width="40" height="40" />
             </a>
     </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairopadilla19&show_icons=true&locale=en&layout=compact" alt="jairopadilla19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&locale=en" alt="jairopadilla19" /></p>
 
