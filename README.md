@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 
-![giphy](https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif)
+<a  target="blank"><img align="center" src="![giphy](https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif)"  height="30" width="40" /></a>
+</p>
+
+
 
 <h3 align="center">A passionate web developer from Bolivia</h3>
 
