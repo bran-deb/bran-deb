@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 
-<a  target="blank"><img align="center" src="![giphy](https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif)"  height="30" width="40" /></a>
+<a  target="blank"><img align="center" src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif"  height="50" width="60" /></a>
 </p>
 
 
