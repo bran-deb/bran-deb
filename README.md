@@ -16,15 +16,45 @@
 - 📫 How to reach me **jairo.padilla.deb19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/brand padilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="brand padilla" height="30" width="40" /></a>
-<a href="https://twitter.com/@deb_jairo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@deb_jairo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brandon jairo padilla villca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon jairo padilla villca" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/brandon padilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brandon padilla" height="30" width="40" /></a>
-<a href="https://fb.com/brandon padilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brandon padilla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/brandon jairo padilla villca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brandon jairo padilla villca" height="30" width="40" /></a>
-<a href="https://discord.gg/#9005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9005" height="30" width="40" /></a>
-</p>
+   <div style="display: flex; justify-content: center;">
+        <p align="left">
+            <a href="https://dev.to/brand padilla" target="blank">
+                <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
+                    alt="brand padilla" height="30" width="40" />
+            </a>
+            <a href="https://twitter.com/@deb_jairo" target="blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                    alt="@deb_jairo" height="30" width="40" />
+            </a>
+            <a href="https://linkedin.com/in/brandon jairo padilla villca" target="blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                    alt="brandon jairo padilla villca" height="30" width="40" />
+            </a>
+            <a href="https://stackoverflow.com/users/brandon padilla" target="blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+                    alt="brandon padilla" height="30" width="40" />
+            </a>
+            <a href="https://fb.com/brandon padilla" target="blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+                    alt="brandon padilla" height="30" width="40" />
+            </a>
+            <a href="https://www.hackerrank.com/brandon jairo padilla villca" target="blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+                    alt="brandon jairo padilla villca" height="30" width="40" />
+            </a>
+            <a href="https://discord.gg/#9005" target="blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+                    alt="#9005" height="30" width="40" />
+            </a>
+        </p>
+    </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
