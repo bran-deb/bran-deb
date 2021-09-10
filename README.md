@@ -168,3 +168,5 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairopadilla19&layout=compact&langs_count=7&theme=blueberry"
         alt="jairopadilla19" />
 </div>
+
+<script src="https://gist.github.com/jairopadilla19/d3d78877672e548709370fb1f7868e76.js"></script>
