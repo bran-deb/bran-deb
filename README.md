@@ -3,10 +3,10 @@
         src="https://user-images.githubusercontent.com/26912874/132787068-6296efa5-d577-4d47-b5b7-a03684ab2409.gif"/>
 </a>
 
-<a href="https://github.com/jairopadilla19" target="blank">
+<!--<a href="https://github.com/jairopadilla19" target="blank">
         <img align="center" height="140" width="100%"
         src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif"/>
-</a>
+</a>-->
 
 <h3 align="center">A passionate web developer from Bolivia</h3>
 
