@@ -1,7 +1,7 @@
-<a href="https://github.com/jairopadilla19" target="blank">
+<!--<a href="https://github.com/jairopadilla19" target="blank">
         <img align="center" height="140" width="100%"
         src="https://user-images.githubusercontent.com/26912874/132787068-6296efa5-d577-4d47-b5b7-a03684ab2409.gif"/>
-</a>
+</a>-->
 
 <a href="https://github.com/jairopadilla19" target="blank">
         <img align="center" height="140" width="100%"
