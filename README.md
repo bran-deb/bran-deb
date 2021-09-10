@@ -3,6 +3,14 @@
         src="https://user-images.githubusercontent.com/26912874/132787068-6296efa5-d577-4d47-b5b7-a03684ab2409.gif"/>
 </a>
 
+![Web Developer](https://user-images.githubusercontent.com/26912874/132787826-0793759f-cc45-49b6-b06f-b8f2b403939a.gif)
+
+<a href="https://github.com/jairopadilla19" target="blank">
+        <img align="center" height="140" width="100%"
+        src="https://user-images.githubusercontent.com/26912874/132787826-0793759f-cc45-49b6-b06f-b8f2b403939a.gif"/>
+</a>
+
+
 <!--<a href="https://github.com/jairopadilla19" target="blank">
         <img align="center" height="140" width="100%"
         src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif"/>
