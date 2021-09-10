@@ -171,5 +171,4 @@
 
 <a target="blank">https://gist.github.com/jairopadilla19/d3d78877672e548709370fb1f7868e76</a>
 
-<script src="https://gist.github.com/jairopadilla19/d3d78877672e548709370fb1f7868e76.js"></script>
-![Snake animation](https://gist.github.com/jairopadilla19/d3d78877672e548709370fb1f7868e76)
+![Snake animation](https://github.com/lizianegarcia/lizianegarcia/blob/output/github-contribution-grid-snake.svg)
