@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Brandon</h1>
 
-<a target="blank"><img align="center"
-        src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif"
-        height="140" width="100%" /></a>
-</p>
-
+<a href="https://github.com/jairopadilla19" target="blank">
+        <img align="center" height="140" width="100%"
+        src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif"/>
+</a>
 
 <h3 align="center">A passionate web developer from Bolivia</h3>
 
