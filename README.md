@@ -39,10 +39,10 @@
 <h3 align="left">Connect with me:</h3>
 <div>
     <p align="left" width="100%">
-        <a href="https://linkedin.com/in/brandon-padilla-villca" target="blank">
+        <!--<a href="https://linkedin.com/in/brandon-padilla-villca" target="blank">
             <img align="center" alt="brandon jairo padilla villca" height="30" width="40"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-        </a>
+        </a> -->
         <a href="https://twitter.com/@deb_jairo" target="blank">
             <img align="center" alt="@deb_jairo" height="30" width="40"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
