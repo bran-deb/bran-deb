@@ -91,11 +91,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     </a>
     
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img align="center" alt="HTML" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </a>
-    
 
     <a href="">
         <img align="center" alt="Node" height="30" width="30"
