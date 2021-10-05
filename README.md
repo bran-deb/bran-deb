@@ -39,15 +39,10 @@
         <img align="center" alt="CSS" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
-
-
-
     <a href="">
         <img align="center" alt="Node" height="30" width="30"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
     </a>
-
-
     <img align="center" alt="java" width="40" height="30"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
     </a>
