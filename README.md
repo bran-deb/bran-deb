@@ -1,20 +1,13 @@
-<!--<a href="https://github.com/jairopadilla19" target="blank">
-        <img align="center" height="140" width="100%"
-        src="https://user-images.githubusercontent.com/26912874/132787068-6296efa5-d577-4d47-b5b7-a03684ab2409.gif"/>
-</a>-->
+
 <a href="https://github.com/jairopadilla19" target="blank">
         <img align="center" height="140" width="100%"
         src="https://user-images.githubusercontent.com/26912874/132787826-0793759f-cc45-49b6-b06f-b8f2b403939a.gif"/>
 </a>
-<!--<a href="https://github.com/jairopadilla19" target="blank">
-        <img align="center" height="140" width="100%"
-        src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif"/>
-</a>-->
 <h3 align="center">A passionate web developer from Bolivia</h3>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=jairopadilla19&label=Profile%20views&color=0e75b6&style=flat"
         alt="jairopadilla19" /> </p>
-- 📑 I’m currently learning **React, and Svelte**
+- 📑 I’m currently learning ***React, and Svelte***
 - 💾 All of my projects are available at
 [https://app.netlify.com/teams/jairopadilla19/overview](https://app.netlify.com/teams/jairopadilla19/overview)
 <h3 align="left">How to reach me:</h3>
