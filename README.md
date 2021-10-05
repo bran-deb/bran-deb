@@ -72,12 +72,12 @@
                 width="40" height="40" />
         </a> -->
     <!-- <a href="https://www.java.com" target="_blank"> -->
-    <img align="center" alt="java" width="40" height="30"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-    </a>
-    <a href="https://spring.io/" target="_blank">
+        <a href="https://spring.io/" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30"
             height="30" />
+    </a>
+    <img align="center" alt="java" width="40" height="30"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
     </a>
     <!-- <a href="https://expressjs.com" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
