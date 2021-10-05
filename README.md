@@ -90,7 +90,6 @@
         <img align="center" alt="Ts" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     </a>
-
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img align="center" alt="CSS" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
