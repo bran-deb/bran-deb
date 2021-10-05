@@ -1,45 +1,22 @@
+<!--<a href="https://github.com/jairopadilla19" target="blank">
+        <img align="center" height="140" width="100%"
+        src="https://user-images.githubusercontent.com/26912874/132787068-6296efa5-d577-4d47-b5b7-a03684ab2409.gif"/>
+</a>-->
 <a href="https://github.com/jairopadilla19" target="blank">
-    <img align="center" height="140" width="100%"
-        src="https://user-images.githubusercontent.com/26912874/132787826-0793759f-cc45-49b6-b06f-b8f2b403939a.gif" />
+        <img align="center" height="140" width="100%"
+        src="https://user-images.githubusercontent.com/26912874/132787826-0793759f-cc45-49b6-b06f-b8f2b403939a.gif"/>
 </a>
-
+<!--<a href="https://github.com/jairopadilla19" target="blank">
+        <img align="center" height="140" width="100%"
+        src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif"/>
+</a>-->
 <h3 align="center">A passionate web developer from Bolivia</h3>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=jairopadilla19&label=Profile%20views&color=0e75b6&style=flat"
         alt="jairopadilla19" /> </p>
-- 📑 I’m currently learning **React**
+- 📑 I’m currently learning **React, and Svelte**
 - 💾 All of my projects are available at
 [https://app.netlify.com/teams/jairopadilla19/overview](https://app.netlify.com/teams/jairopadilla19/overview)
-<h3 align="left">How to reach me:</h3>
-<div>
-    <a href="mailto:jairo.padilla.deb19@gmail.com">
-        <img target="_blank"
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://linkedin.com/in/brandon-padilla-villca/" target="_blank">
-        <img target="_blank"
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-<h3 align="left">Connect with me:</h3>
-<div>
-    <p align="left" width="100%">
-        <!--<a href="https://linkedin.com/in/brandon-padilla-villca" target="blank">
-        <img align="center" alt="brandon jairo padilla villca" height="30" width="40"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-    </a> -->
-        <a href="https://twitter.com/@deb_jairo" target="blank">
-            <img align="center" alt="@deb_jairo" height="30" width="40"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-        </a>
-        <a href="https://dev.to/deb_jairo" target="blank">
-            <img align="center" alt="brand padilla" height="30" width="40"
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
-        </a>
-        <a href="https://www.facebook.com/BrandonPadillaVillca/" target="blank">
-            <img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                alt="brandon padilla" height="30" width="40" />
-        </a>
-    </p>
 <h3 align="left">Languages and Tools:</h3>
 <div width="100%">
     <a href="https://reactjs.org/" target="_blank">
