@@ -8,9 +8,12 @@
         src="https://komarev.com/ghpvc/?username=jairopadilla19&label=Profile%20views&color=0e75b6&style=flat"
         alt="jairopadilla19" />
 </p>
-- 📑 I’m currently learning *React, and Svelte*
--- 💾 All of my projects are available at
-[https://app.netlify.com/teams/jairopadilla19/overview](https://app.netlify.com/teams/jairopadilla19/overview)
+
+- 📑 I’m currently learning **React, and Svelte**
+ 
+- 💾 All of my projects are available at
+[https://app.netlify.com/teams/jairopadilla19/overview]
+(https://app.netlify.com/teams/jairopadilla19/overview)
 <h3 align="left">How to reach me:</h3>
 <div>
     <a href="mailto:jairo.padilla.deb19@gmail.com">
