@@ -1,18 +1,7 @@
-<!--<a href="https://github.com/jairopadilla19" target="blank">
-        <img align="center" height="140" width="100%"
-        src="https://user-images.githubusercontent.com/26912874/132787068-6296efa5-d577-4d47-b5b7-a03684ab2409.gif"/>
-</a>-->
-
 <a href="https://github.com/jairopadilla19" target="blank">
     <img align="center" height="140" width="100%"
         src="https://user-images.githubusercontent.com/26912874/132787826-0793759f-cc45-49b6-b06f-b8f2b403939a.gif" />
 </a>
-
-
-<!--<a href="https://github.com/jairopadilla19" target="blank">
-    <img align="center" height="140" width="100%"
-    src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif"/>
-</a>-->
 
 <h3 align="center">A passionate web developer from Bolivia</h3>
 
@@ -55,7 +44,6 @@
     </p>
 </div>
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 <div width="100%">
@@ -96,18 +84,6 @@
         <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30"
             height="30" />
     </a>
-    <!-- <a href="https://nodejs.org" target="_blank">
-    <img align="center"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" />
-</a>-->
-    <!-- <a href="https://expressjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" />
-    </a> -->
-    <!-- <a href="https://nextjs.org/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40" />
-    </a> -->
     <a href="https://www.docker.com/" target="_blank">
         <img align="center"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
