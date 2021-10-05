@@ -70,7 +70,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" />
     </a>
-
 <div align="center">
     <a href="https://github.com/jairopadilla19" />
     <img height="180em"
@@ -80,5 +79,8 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairopadilla19&layout=compact&langs_count=7&theme=blueberry"
         alt="jairopadilla19" />
 </div>
-![Snake animation](https://github.com/lizianegarcia/lizianegarcia/blob/output/github-contribution-grid-snake.svg)
+<div>
+       ![Snake animation](https://github.com/lizianegarcia/lizianegarcia/blob/output/github-contribution-grid-snake.svg) 
+</div>
+
 
