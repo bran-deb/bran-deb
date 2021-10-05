@@ -1,7 +1,18 @@
+<!--<a href="https://github.com/jairopadilla19" target="blank">
+        <img align="center" height="140" width="100%"
+        src="https://user-images.githubusercontent.com/26912874/132787068-6296efa5-d577-4d47-b5b7-a03684ab2409.gif"/>
+</a>-->
+
 <a href="https://github.com/jairopadilla19" target="blank">
     <img align="center" height="140" width="100%"
         src="https://user-images.githubusercontent.com/26912874/132787826-0793759f-cc45-49b6-b06f-b8f2b403939a.gif" />
 </a>
+
+
+<!--<a href="https://github.com/jairopadilla19" target="blank">
+    <img align="center" height="140" width="100%"
+    src="https://user-images.githubusercontent.com/26912874/129817845-16ecbd8b-502d-464f-8cbf-47efffe32686.gif"/>
+</a>-->
 
 <h3 align="center">A passionate web developer from Bolivia</h3>
 
@@ -28,6 +39,10 @@
 <h3 align="left">Connect with me:</h3>
 <div>
     <p align="left" width="100%">
+        <!--<a href="https://linkedin.com/in/brandon-padilla-villca" target="blank">
+        <img align="center" alt="brandon jairo padilla villca" height="30" width="40"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+    </a> -->
         <a href="https://twitter.com/@deb_jairo" target="blank">
             <img align="center" alt="@deb_jairo" height="30" width="40"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
@@ -41,8 +56,24 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                 alt="brandon padilla" height="30" width="40" />
         </a>
+        <!-- <a href="https://stackoverflow.com/users/16692066/brandon-padilla" target="blank">
+            <img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+                alt="brandon padilla" height="30" width="40" />
+        </a> -->
+        <!-- <a href="https://www.hackerrank.com/jairo_padilla_d1" target="blank">
+            <img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+                alt="brandon jairo padilla villca" height="30" width="40" />
+        </a> -->
+        <!-- <a href="https://discord.gg/#9005" target="blank">
+            <img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+                alt="#9005" height="30" width="40" />
+        </a> -->
     </p>
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -59,6 +90,7 @@
         <img align="center" alt="Ts" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     </a>
+
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img align="center" alt="CSS" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -68,6 +100,7 @@
         <img align="center" alt="HTML" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
+
     <a href="">
         <img align="center" alt="Node" height="30" width="30"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
@@ -84,6 +117,18 @@
         <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30"
             height="30" />
     </a>
+    <!-- <a href="https://nodejs.org" target="_blank">
+    <img align="center"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs" width="40" height="40" />
+</a>-->
+    <!-- <a href="https://expressjs.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express" width="40" height="40" />
+    </a> -->
+    <!-- <a href="https://nextjs.org/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40" />
+    </a> -->
     <a href="https://www.docker.com/" target="_blank">
         <img align="center"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
