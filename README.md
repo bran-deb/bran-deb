@@ -158,4 +158,5 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairopadilla19&layout=compact&langs_count=7&theme=blueberry"
         alt="jairopadilla19" />
 </div>
+
 ![Snake animation](https://github.com/lizianegarcia/lizianegarcia/blob/output/github-contribution-grid-snake.svg)
