@@ -55,7 +55,6 @@
                 alt="#9005" height="30" width="40" />
         </a> -->
     </p>
-</div>
 <h3 align="left">Languages and Tools:</h3>
 <div width="100%">
     <a href="https://reactjs.org/" target="_blank">
@@ -114,7 +113,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" />
     </a>
-</div>
 
 <div align="center">
     <a href="https://github.com/jairopadilla19" />
