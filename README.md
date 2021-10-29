@@ -124,7 +124,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                     alt="bootstrap" width="40" height="40" />
             </a> -->
-</div>
+ <!--</div>
 <div align="center">
     <a href="https://github.com/jairopadilla19" />
     <img height="180em"
@@ -133,7 +133,7 @@
     <img height="180em" width="456px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairopadilla19&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages"
         alt="jairopadilla19" />
-</div>
+</div> -->
 <div align="center">
 <a href="https://github.com/jairopadilla19">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Brandon Stats"
