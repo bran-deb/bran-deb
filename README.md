@@ -140,7 +140,8 @@
        alt="jairopadilla19"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairopadilla19&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages" 
+  <img align="center" height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairopadilla19&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages" 
        alt="jairopadilla19"/>
 </a>    
 </div>
