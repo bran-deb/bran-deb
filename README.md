@@ -12,7 +12,7 @@
 - 📑 I’m currently learning **React, and Svelte**
  
 - 💾 All of my projects are available at
-<a href="https://app.netlify.com/teams/jairopadilla19/overview" target="_blank">[netlify](https://app.netlify.com/teams/jairopadilla19/overview)</a>
+<a href="https://app.netlify.com/teams/jairopadilla19/overview" target="_blank">netlify</a>
  [netlify](https://app.netlify.com/teams/jairopadilla19/overview)
 
 <h3 align="left">How to reach me:</h3>
