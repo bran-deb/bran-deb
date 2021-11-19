@@ -1,5 +1,5 @@
 
-<a href="https://github.com/jairopadilla19" target="blank">
+<a href="https://github.com/jairopadilla19" target="_blank">
         <img align="center" height="140" width="100%"
         src="https://user-images.githubusercontent.com/26912874/132787826-0793759f-cc45-49b6-b06f-b8f2b403939a.gif"/>
 </a>
@@ -12,6 +12,7 @@
 - 📑 I’m currently learning **React, and Svelte**
  
 - 💾 All of my projects are available at
+<a href="https://app.netlify.com/teams/jairopadilla19/overview" target="_blank">[netlify](https://app.netlify.com/teams/jairopadilla19/overview)</a>
  [netlify](https://app.netlify.com/teams/jairopadilla19/overview)
 
 <h3 align="left">How to reach me:</h3>
@@ -26,11 +27,11 @@
 <h3 align="left">Connect with me:</h3>
 <div>
     <p align="left" width="100%">
-        <a href="https://twitter.com/@deb_jairo" target="blank">
+        <a href="https://twitter.com/@deb_jairo" target="_blank">
             <img align="center" alt="@deb_jairo" height="30" width="40"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
         </a>
-        <a href="https://dev.to/deb_jairo" target="blank">
+        <a href="https://dev.to/deb_jairo" target="_blank">
             <img align="center" alt="brand padilla" height="30" width="40"
                 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
         </a>
