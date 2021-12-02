@@ -28,8 +28,8 @@
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="React" height="30" width="40" href="https://reactjs.org/" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a><img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
   <a href=""><img align="center" alt="Node" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
   <a href="https://spring.io/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" /></a><img align="center" alt="java" width="40" height="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>
   <a href="https://www.docker.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
@@ -40,15 +40,10 @@
   <img align="center" alt="Heroku" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
 </div>          
 <h2>📈 &nbsp;Some Github Stats</h2>
+
 <div align="center">
-<a href="https://github.com/jairopadilla19">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Brandon Stats"
-       alt="jairopadilla19"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairopadilla19&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages" 
-       alt="jairopadilla19"/></a>  
+  <a href="https://github.com/jairopadilla19"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Brandon Stats"alt="jairopadilla19"/></a>
+  <a href="https://github.com/anuraghazra/convoychat"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairopadilla19&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages" alt="jairopadilla19"/></a>  
 </div>
 
 ![Snake animation](https://github.com/lizianegarcia/lizianegarcia/blob/output/github-contribution-grid-snake.svg)
