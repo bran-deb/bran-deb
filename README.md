@@ -41,8 +41,8 @@
 <h2>📈 &nbsp;Some Github Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/jairopadilla19"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jairopadilla19&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Brandon Stats"alt="jairopadilla19"/></a>
-  <a href="https://github.com/anuraghazra/convoychat"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairopadilla19&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages" alt="jairopadilla19"/></a>  
+  <a href="https://github.com/bran-deb"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bran-deb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Brandon Stats"alt="jairopadilla19"/></a>
+  <a href="https://github.com/anuraghazra/convoychat"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bran-deb&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages" alt="jairopadilla19"/></a>  
 </div>
 
 ![Snake animation](https://github.com/lizianegarcia/lizianegarcia/blob/output/github-contribution-grid-snake.svg)
