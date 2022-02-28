@@ -4,7 +4,7 @@
 
 <h2 align="center">&nbsp;A passionate web developer from Bolivia</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jairopadilla19&label=Profile%20views&color=0e75b6&style=flat" alt="jairopadilla19" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jairopadilla19&label=Profile%20views&color=0e75b6&style=flat" alt="bran-deb" /></p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a> and <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a>. \
@@ -41,8 +41,10 @@
 <h2>📈 &nbsp;Some Github Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/bran-deb"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bran-deb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Brandon Stats"alt="jairopadilla19"/></a>
-  <a href="https://github.com/anuraghazra/convoychat"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bran-deb&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages" alt="jairopadilla19"/></a>  
+  <a href="https://github.com/bran-deb"><img align="center" height="180em"
+     src="https://github-readme-stats.vercel.app/api?username=bran-deb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Brandon Stats"alt="brandeb"/></a>
+  <a href="https://github.com/bran-deb"><img align="center" height="180em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bran-deb&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages" alt="brandeb"/></a>  
 </div>
 
 ![Snake animation](https://github.com/lizianegarcia/lizianegarcia/blob/output/github-contribution-grid-snake.svg)
