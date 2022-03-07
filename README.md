@@ -47,5 +47,5 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bran-deb&layout=compact&langs_count=7&theme=github_dark&custom_title=Languages" alt="brandeb"/></a>  
 </div>
 
-![Snake animation](https://github.com/lizianegarcia/lizianegarcia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bran-deb/bran-deb/blob/output/github-contribution-grid-snake.svg)
 <span align="right">
