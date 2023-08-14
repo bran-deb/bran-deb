@@ -29,22 +29,22 @@
 
 <div width="100%">
   <a href="https://nextjs.org/" target="_blank"><img align="center" alt="Next" height="30" width="40" href="https://nextjs.org/" target="_blank" src="https://user-images.githubusercontent.com/26912874/164787083-44e88a72-314a-43f5-a761-16c9b36cea61.svg"></a>
+  <a href="https://spring.io/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="React" height="30" width="40" href="https://reactjs.org/" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a><img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></a>
   <a href="https://www.w3.org/html/" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
   <a href=""><img align="center" alt="Node" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
-  <a href="https://spring.io/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" /></a><img align="center" alt="java" width="40" height="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>
+  </a><img align="center" alt="java" width="40" height="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>
   <a href="https://www.docker.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
   <a href="https://www.postgresql.org" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="30" height="30" /></a>
+  <a href="https://www.mysql.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="30" height="30" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
   <img align="center" alt="Firebase" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Heroku" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
 </div>
 
 
-![Snake animation](https://github.com/bran-deb/bran-deb/blob/output/github-contribution-grid-snake.svg)
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <div align="center">
