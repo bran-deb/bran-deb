@@ -5,7 +5,7 @@
 <!-- <meta charset="UTF-8"> -->
 <a href="https://github.com/jairopadilla19" target="_blank"><img align="center" height="160" width="100%" src="https://user-images.githubusercontent.com/26912874/164779999-a139b930-184f-4ee4-8a43-4e7ba4902e52.gif"/></a>
 
-![Snake animation](https://github.com/bran-deb/bran-deb/blob/output/github-contribution-grid-snake.svg)
+
 <!--<h2 align="center">&nbsp;A passionate web developer from Bolivia</h2> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairopadilla19&label=Profile%20views&color=0e75b6&style=flat" alt="bran-deb" /></p>
@@ -44,7 +44,7 @@
   <img align="center" alt="Firebase" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 
-
+![Snake animation](https://github.com/bran-deb/bran-deb/blob/output/github-contribution-grid-snake.svg)
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <div align="center">
