@@ -44,7 +44,8 @@
   <img align="center" alt="Firebase" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 
-![Snake animation](https://github.com/bran-deb/bran-deb/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/bran-deb/bran-deb/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/bran-deb/bran-deb/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 <div align="center">
