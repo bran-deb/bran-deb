@@ -56,3 +56,13 @@
 </div>
 
 <span align="right">
+
+
+&nbsp;<div align="center">
+  [![Spotify](https://spotify-vercel-taupe.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/12125608484)
+</div>
+
+<!-- &nbsp;<div align="center">
+ [![Spotify](https://spotify-vercel-taupe.vercel.app/api/spotify)](https://open.spotify.com/user/12125608484)
+</div> -->
+
